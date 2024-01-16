@@ -1,3 +1,9 @@
+# YoutubeDataToRSSHub
+
+This fork converts your subscriptions to RSSHub links.
+
+---------------
+
 # YouTubeDataToRSS
 Converts youtube subscription data from "your data" into opml for import into rss feed program or website.\
 There is two file format possiblities - JSON and CSV.\
