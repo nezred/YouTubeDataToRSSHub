@@ -69,7 +69,7 @@ for x in inf:
       outf.write("      title=\"" + otitle + "\"\n")
       outf.write("      text=\"" + otitle + "\"\n")
       outf.write("      type=\"rss\"\n")
-      outf.write("      xmlUrl=\"https://www.youtube.com/feeds/videos.xml?channel_id=" + ochannelID + "\"\n")
+      outf.write("      xmlUrl=\"https://rsshub.app/youtube/channel/" + ochannelID + "/\"\n")
       outf.write("      htmlUrl=\"https://www.youtube.com/channel/" + ochannelID + "\"\n")
       outf.write("    />\n")
     
